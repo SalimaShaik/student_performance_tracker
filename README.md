@@ -16,3 +16,6 @@ Technologies: Python, Streamlit, Pandas, Plotly
 Run the application
 
 python -m streamlit run student_performance_tracker.py# student_performance_tracker
+
+##Live Demo:
+https://studentperformancetracker-2yv4hcxyjt6kllhhgjcfja.streamlit.app/
